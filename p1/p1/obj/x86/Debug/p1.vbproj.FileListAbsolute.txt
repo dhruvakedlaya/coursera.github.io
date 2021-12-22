@@ -1,0 +1,12 @@
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\bin\Debug\p1.exe
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\bin\Debug\p1.pdb
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\bin\Debug\p1.xml
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.college.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.your_college.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.your_self.resources
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.vbproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.exe
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.xml
+c:\users\hp\onedrive\documents\visual studio 2010\Projects\p1\p1\obj\x86\Debug\p1.pdb
